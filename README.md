@@ -42,7 +42,7 @@ The table below shows developers' details - names, Github usernames linking to t
 | 9      | Adesite Godwin         | [softcreations01](https://github.com/softcreations01/) | Python                        | Cloud DevOps Engineer, PM, Tech lover.                                 | [AWS Infrastructure automation Project](https://github.com/softcreations01/aws-infrastructure-automation) |
 | 10     | Chukwudi David Okoro   |  [Donchuks02](https://github.com/Donchuks02)        |         Python   |                        |  |
 | 11     |  Toluwanimi Sobowale   |  [tonisobowale01](https://github.com/tonisobowale01)   |  JavaScript |                        |  |
-| 12     |               |     |                   |                        |  |
+| 12     | Joel Hogg  | [jwhogg](https://github.com/jwhogg) | Python | Graduate, AI Engineer  |
 | 13     |               |     |                   |                        |  |
 | 14     |               |     |                   |                        |  |
 | 15     |               |     |                   |                        |  |
@@ -52,6 +52,7 @@ The table below shows developers' details - names, Github usernames linking to t
 | 19     |               |     |                   |                        |  |
 | 20     |               |     |                   |                        |  |
 | 21     |               |     |                   |                        |  |
+| 22     |               |     |                   |                        |  |
 
 <!-- TABLE SECTION ENDS -->
 
